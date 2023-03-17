@@ -321,3 +321,7 @@ modelo17-problema-regla-de-tres-compuesta-ó-mixta
 modelo18-problema-regla-de-tres-simple-y-directa
 modelo19-problema-regla-de-tres-simple-y-directa
 modelo20-problema-regla-de-tres-compuesta
+operaciones-y-propiedades-de-los-numeros-reales
+sistemas-de-ecuaciones-lineales
+planteo-Y-Solucion-de-Problemas
+concepto-de-Relacion
