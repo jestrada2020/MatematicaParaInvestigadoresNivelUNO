@@ -325,3 +325,10 @@ operaciones-y-propiedades-de-los-numeros-reales
 sistemas-de-ecuaciones-lineales
 planteo-Y-Solucion-de-Problemas
 concepto-de-Relacion
+conceptos-Introductorios
+Conceptos-Introductorios
+Operaciones-y-propiedades-de-los-numeros-reales
+Sistemas-de-ecuaciones-lineales
+Planteo-Y-Solucion-de-Problemas
+Concepto-de-Relacion
+Talleres-evaluativos
