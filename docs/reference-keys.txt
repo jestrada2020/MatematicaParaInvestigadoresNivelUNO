@@ -332,3 +332,4 @@ Sistemas-de-ecuaciones-lineales
 Planteo-Y-Solucion-de-Problemas
 Concepto-de-Relacion
 Talleres-evaluativos
+regresión-lineal
