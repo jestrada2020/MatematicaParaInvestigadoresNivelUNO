@@ -333,3 +333,4 @@ Planteo-Y-Solucion-de-Problemas
 Concepto-de-Relacion
 Talleres-evaluativos
 regresión-lineal
+ejemplos-de-fracciones-en-los-números-reales
