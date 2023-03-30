@@ -334,3 +334,16 @@ Concepto-de-Relacion
 Talleres-evaluativos
 regresión-lineal
 ejemplos-de-fracciones-en-los-números-reales
+fig:SubConjuntos2A
+fig:Conjuntos2A
+fig:Conjuntos2E
+fig:Conjuntos2C
+fig:Conjuntos2B
+fig:Complemento0
+fig:Conjuntos2D
+diferencia-simétrica-de-dos-conjuntos
+ejemplos-de-cardinalidad
+primer-ejemplo-dos-conjuntos
+segundo-ejemplo-tres-conjuntos
+tercer-ejemplo-cuatro-conjuntos
+cuarto-ejemplo-lectura-de-revistas
